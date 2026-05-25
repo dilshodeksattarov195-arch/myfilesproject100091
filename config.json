@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpave",
+        "uuid": 681135,
+        "checksum": "lmnnyk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
